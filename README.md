@@ -17,7 +17,7 @@ def guess_the_number():
         
         attempts += 1
         
-        if user_guess == secret_number: https://pakprices.pk/ 
+        if user_guess == secret_number: https://ehsaasprograme8171.pk/
             print(f"Congratulations! You guessed the number {secret_number} in {attempts} attempts.")
             break
         elif user_guess < secret_number:
